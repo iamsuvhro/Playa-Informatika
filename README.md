@@ -1,4 +1,4 @@
-# [Playa informatika ] is a spanish name of Sea Beach Information
+# Playa informatika is a spanish name of Sea Beach Information
 
 This project was developed with HTML5, Sass, jQuery, and Hammer.js.
 
